@@ -22,7 +22,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=deyvida&style=flat-square&color=blue" alt="DeyvidA" /> </p>
 
-<h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">, I'm Deyvid Arauz!</h1>
 
 <p align="center"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/6060fa143584307.627d06916b633.gif" width="600" height="300"  /></p>
 
@@ -33,6 +33,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - 🌱 Exploring Technical Content Writing.
+- 📘 I’m currently learning about Web3. 
+- 📈 I constanly study and look for way to implove all my skills.
+- 🤝🏽 I'm always looking for ways to help others and learn from them. 
 - ⚡ In my free time I learn more about blockchain and read tech articles.
 - 📫 How to reach me: deyvida1001@gmail.com or  &nbsp; [![Linkedin Badge](https://img.shields.io/badge/DeyvidA-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deyvida)
 
