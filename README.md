@@ -9,9 +9,6 @@
    <a href="https://www.linkedin.com/in/deyvida">
     <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
-  <a href="https://twitter.com/DeyvidA_">
-    <img src="https://img.shields.io/badge/Twitter-1d9bf0?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
  <a href="https://gitlab.com/deyvida">
     <img src="https://img.shields.io/badge/GitLab-303030?logo=gitlab&logoColor=white&style=for-the-badge" alt="GitLab Badge"/>
   </a>
