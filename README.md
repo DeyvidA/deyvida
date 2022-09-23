@@ -9,10 +9,7 @@
    <a href="https://www.linkedin.com/in/deyvida">
     <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
-  <a href="https://www.reddit.com/user/DeyvidA_">
-  <img src="https://img.shields.io/badge/reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit Badge">
-  </a>
- <a href="https://twitter.com/DeyvidA_">
+  <a href="https://twitter.com/DeyvidA_">
     <img src="https://img.shields.io/badge/Twitter-1d9bf0?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
  <a href="https://gitlab.com/deyvida">
