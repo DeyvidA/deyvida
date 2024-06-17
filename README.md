@@ -27,10 +27,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - 🌱 Exploring Technical Content Writing.
-- 📘 I’m currently learning about Web3 and Ruby / Ruby On Rails. 
+- 📘 I’m currently learning about Java. 
 - 📈 I'm constantly studying and looking for ways to improve each of my skills.
 - 🤝🏽 I'm always looking for ways to help others and learn from them. 
-- ⚡ In my free time I learn more about blockchain and read tech articles.
 - 📫 How to reach me: deyvida1001@gmail.com or  &nbsp; [![Linkedin Badge](https://img.shields.io/badge/DeyvidA-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deyvida)
 
 <br/>
