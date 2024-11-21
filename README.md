@@ -84,16 +84,20 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### 🔥 &nbsp; My GitHub Stats :
+<!--
 <div align="center" gap="40px">
   <img src="https://github-readme-stats.vercel.app/api?username=deyvida&show_icons=true&count_private=true&hide_border=true&theme=tokyonight"     align="center" style="width: 100%" />
-</div>  
+</div> 
+--> 
 <br/>  
 <div >
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deyvida&layout=compact&theme=tokyonight" align="center" style="width: 40%" />
+
+<!--
   <img src="http://github-readme-streak-stats.herokuapp.com?user=deyvida&theme=tokyonight" align="center" style="width: 47%" />
+-->
 </div>  
 <br/>  
-
 
 
 <!--
